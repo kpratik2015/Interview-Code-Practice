@@ -66,7 +66,6 @@ public class ThreeStackFromArray {
 		stack.push(2,3);
 
 		System.out.println(stack.peek(0));
-		System.out.println(stack.peek(1));
 		System.out.println(stack.peek(2));
 	}
 }
