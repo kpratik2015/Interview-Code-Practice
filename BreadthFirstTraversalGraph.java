@@ -5,7 +5,7 @@ Queue Data Structure for adding vertices visited
 import java.io.*;
 import java.util.*;
  
-class BreadthFirstTraversal
+class BreadthFirstTraversalGraph
 {
     private int numOfVertices; 
     // Array of LinkedList denoting adjacency list
